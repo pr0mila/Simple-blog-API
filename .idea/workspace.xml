@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a12da9c-bde3-4049-8861-dd1a38c43700" name="Default Changelist" comment="" />
+    <list default="true" id="7a12da9c-bde3-4049-8861-dd1a38c43700" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapp/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapp/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogapp/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Vz1jo7MH9wZUtrl91wBGv2p2Ck" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -80,6 +91,7 @@
       <updated>1578241246807</updated>
       <workItem from="1578241324462" duration="599000" />
       <workItem from="1578420058735" duration="2154000" />
+      <workItem from="1578463439310" duration="763000" />
     </task>
     <servers />
   </component>
@@ -103,10 +115,10 @@
       <screen x="0" y="27" width="1366" height="702" />
     </state>
     <state width="1320" height="163" key="GridCell.Tab.0.right/0.27.1366.702@0.27.1366.702" timestamp="1578422248276" />
-    <state x="339" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1578420058655">
+    <state x="339" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1578463535117">
       <screen x="0" y="27" width="1366" height="702" />
     </state>
-    <state x="339" y="204" key="com.intellij.ide.util.TipDialog/0.27.1366.702@0.27.1366.702" timestamp="1578420058655" />
+    <state x="339" y="204" key="com.intellij.ide.util.TipDialog/0.27.1366.702@0.27.1366.702" timestamp="1578463535117" />
     <state x="336" y="27" width="683" height="702" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578422053982">
       <screen x="0" y="27" width="1366" height="702" />
     </state>

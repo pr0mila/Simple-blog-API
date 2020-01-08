@@ -8,6 +8,7 @@ class PostTypeSerializer(serializers.ModelSerializer):  # model staff
         model = PostType
         fields = "__all__"
 
+
 class PostSerializer(serializers.ModelSerializer):  # model staff
     class Meta:
         model = Post
